@@ -14,10 +14,10 @@ pip3 install --upgrade pip
 pip install virtualenv
 
 ### Move to the folder and create the virtualenv
-virtualenv -p python3 <my-virtualenv-name>
+virtualenv -p python3 dataCleaning
 
 ### Activate the virtualenv
-source <my-virtualenv-name>/bin/activate
+source dataCleaning/bin/activate
 
 ### Install Jupyter, Pandas, Plotly and Matplotlib
 pip3 install jupyter pandas plotly matplotlib requests
