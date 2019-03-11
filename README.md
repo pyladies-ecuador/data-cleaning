@@ -1,4 +1,14 @@
 # Data cleaning with Jupyter Notebook, Pandas
+
+<img src="https://raw.githubusercontent.com/pyladies-ecuador/pyladies-ec-kit/master/assets/logos/logo-map-ec.jpg" height="200"> 
+
+## Evento 
+* 2019-03-09: **"por Limpieza de datos con Pandas"**, por Gabriela Guamán y Silvia Vacacela | [Evento](https://www.meetup.com/pyladiesEc/events/259074450/)
+
+## Presentación
+* 2019-03-09: **"PDF"**,  por Gabriela Guamán  | [File](url tiene que estar dendro del mismo proyecto de git)
+* 2019-03-09: **"POWER POINT"**, por  por Gabriela Guamán  | [File](url tiene que estar dendro del mismo proyecto de git)
+
 ## PyLadiesEc March meetup 2019
 ## Installation: the environment
 Simple instructions to start a Jupyter notebook using a virtualenv environment in Python 3.
