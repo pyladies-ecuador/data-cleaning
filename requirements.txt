@@ -9,7 +9,7 @@ kiwisolver==1.0.1
 matplotlib==3.0.2
 mkl-fft==1.0.10
 mkl-random==1.0.2
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.1
 pycparser==2.19
 pyOpenSSL==19.0.0
